@@ -1,21 +1,21 @@
 let btn = document.getElementById("btn")
 
 btn.addEventListener("click", function(){
-    alert("KEKEKE, Kya sochi thi? Kuchh ganda sochi thi naa? XD")
-    alert("Chiii, gandi ladki XD")
-    alert("Maza aaya naa? XD")
-    let con1 = confirm("Chalo to batao, accept kar rahi ho? Karo accept, warna is baar nhi chhodunga XD")
+    alert("KEKEKE, What you was thinking? You was thinking something dirty? hahaha")
+    alert("Chiii, bad girl kekekeke")
+    alert("Slap on your bum again and again kekekeke")
+    let con1 = confirm("Now say, you are accepting or not, if you won't accept now, I will really rape you kekekekeke")
     if(con1 == true){
         window.location.href = "index.html"
     }
 
     else{
-        alert("Bohot bigad rahi ho huh? Nhi kari accept?")
-        alert("Pressing your dudu*")
+        alert("You dare not to accept huh??")
+        alert("Pressing your boobies*")
         alert("KEKEKEKEKEKEKKEKE")
-        alert("Is baar koi nhi bachayega XD")
+        alert("This time no one can save you kekekekeke")
         alert("Hug you soooo tightly*")
-        alert("Kissing you on lips and pressing you on bed*")
+        alert("Kissing you on lips and pushing you on bed*")
         alert("Lying on you and bite on your lips*")
         alert("Again pressing you on bed and doing this -->")
         window.location.href = "fifthPage.html"

@@ -1,40 +1,40 @@
 let btn = document.getElementById("secbtn")
 
 btn.addEventListener("click", function(){
-    let con1 = confirm("How dare you!!! I am giving you one more chance, tap on yes!!!")
+    let con1 = confirm("How dare you!!! I am giving you one more chance, tap on Ok!!!")
     if(con1== true){
-        alert("Sabbash meri bacchi!!! Jaakar dusre button pe tap karo!")
+        alert("Good girl!!! Go and tap other button!")
     }
     else{
-        alert("Itni himmat? Itni badi ho gayi huh?")
+        alert("You dare? Aren't you scared of me huh?")
         alert("Slap on your bum!!!")
-        alert("Mulayam Mulayam kekeke XD")
-        alert("Fir se ek chance deta hun, samjhi? Pitogi is baar")
-        let con2 = confirm("Accept kar rahi ho ya nhi? Jaakar dusre button pe tap karo")
+        alert("Soft soft kekeke")
+        alert("Giving you another chance, okay? I will beat you this time heh")
+        let con2 = confirm("Accepting or not? Go and tap another button")
         if(con2 == true){
-            alert("Shabbash babu, aaja mere paas, chal padi baraat, baraat main 2 bacche, mammi papa achhe. Ab jaakar dusre button par tap karo XD")
+            alert("Good girl, come to me now kekekekekekekkeke. Now go and tap another button hehhhh")
         }
         else{
             alert("*Throw you on air*")
-            alert("Fir se mana kar di? Aaj jaada pitne ka dil hai? HUH?")
+            alert("You rejected again?? Today you wanna get beaten so much? HUH?")
             alert("Again slap on your bum at the middle")
-            alert("Jo bhi ho, maza to aaya XD")
+            alert("It's fun slapping your soft bum kekekekke")
             alert("Kiss you on lips*")
             alert("Tasty tasty XD")
-            alert("Pressing your dudu*")
+            alert("Pressing your boobs*")
             alert("KEKEKEKEKEKEKEKE")
-            alert("Maza aaya XD")
-            alert("Ab chup chap se jaakar dusre button pe tap karo, usse pehle ki rape naa ho jaye hahahaha")
-            alert("Chalo Jao yahan se ab")
-            let con3 = confirm("Chalo, dusre button pe tap karo")
+            alert("Feels good kekekeke")
+            alert("Now go and tap another button, or I will rape you hahahaha")
+            alert("Go Now hehhh")
+            let con3 = confirm("Now, Tap another button hehhh")
             if(con3==true){
-                alert("This was a right decision, otherwise... something dangerous might have happened to you XD")
+                alert("This was a right decision, otherwise... something dangerous might have happened to you kekekeke")
             }
             else{
-                alert("Ye dekho, fir se aa gayi yahan")
+                alert("Sigh, here you are again!!!")
                 alert("Hug you tightly*")
-                alert("Is baar nhi jaane dunga XD")
-                alert("Pressing you on bed*")
+                alert("This time you won't be able to go away kekekeke")
+                alert("Pushing you on bed*")
                 alert("Lying on bed*")
                 alert("Taking you on me*")
                 alert("And doing this -->")
